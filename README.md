@@ -4,7 +4,7 @@ Submitted by: **Aishwarya Ramesh**
 
 **Sea Monster - Under Water** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **5** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -31,7 +31,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Initially found JavaScript's higher-order functions (map, reduce, filter) challenging but gained proficiency through practice.
 
 ## License
 
